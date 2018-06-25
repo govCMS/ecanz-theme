@@ -1,1 +1,1 @@
-# ecanz-theme
+# ecanz
