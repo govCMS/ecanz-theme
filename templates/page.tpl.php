@@ -48,8 +48,8 @@
 
 <div class="search-nav-mobile">
               <a href="#">
-                <img src="/sites/all/themes/ecanz/images/icon-search-white-bigger.png" class="showing" alt="Show the site search field">
-                <img src="/sites/all/themes/ecanz/images/icon-search-close-cross.png" class="hiding" alt="Hide the site search field">
+                <img src="<?php print base_path().path_to_theme(); ?>/images/icon-search-white-bigger.png" class="showing" alt="Show the site search field">
+                <img src="<?php print base_path().path_to_theme(); ?>/images/icon-search-close-cross.png" class="hiding" alt="Hide the site search field">
                 <span class="button-text">Search</span>
               </a>
             </div>

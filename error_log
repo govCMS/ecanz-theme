@@ -1,0 +1,8 @@
+[23-Jul-2018 15:25:47 Australia/Sydney] PHP Notice:  Undefined variable: pipes in /home/devboxco/.composer/vendor/drush/drush/includes/startup.inc on line 434
+[23-Jul-2018 15:25:47 Australia/Sydney] PHP Warning:  proc_open() has been disabled for security reasons in /home/devboxco/.composer/vendor/drush/drush/includes/startup.inc on line 434
+[23-Jul-2018 15:25:47 Australia/Sydney] PHP Warning:  proc_get_status() expects parameter 1 to be resource, null given in /home/devboxco/.composer/vendor/drush/drush/includes/startup.inc on line 435
+[23-Jul-2018 15:25:47 Australia/Sydney] PHP Warning:  proc_close() expects parameter 1 to be resource, null given in /home/devboxco/.composer/vendor/drush/drush/includes/startup.inc on line 436
+[23-Jul-2018 15:25:53 Australia/Sydney] PHP Notice:  Undefined variable: pipes in /home/devboxco/.composer/vendor/drush/drush/includes/startup.inc on line 434
+[23-Jul-2018 15:25:53 Australia/Sydney] PHP Warning:  proc_open() has been disabled for security reasons in /home/devboxco/.composer/vendor/drush/drush/includes/startup.inc on line 434
+[23-Jul-2018 15:25:53 Australia/Sydney] PHP Warning:  proc_get_status() expects parameter 1 to be resource, null given in /home/devboxco/.composer/vendor/drush/drush/includes/startup.inc on line 435
+[23-Jul-2018 15:25:53 Australia/Sydney] PHP Warning:  proc_close() expects parameter 1 to be resource, null given in /home/devboxco/.composer/vendor/drush/drush/includes/startup.inc on line 436
